@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/netpad/static/css/main.72568e55.chunk.css",
+    "main.js": "/netpad/static/js/main.d624ad68.chunk.js",
+    "main.js.map": "/netpad/static/js/main.d624ad68.chunk.js.map",
+    "runtime-main.js": "/netpad/static/js/runtime-main.7a4b0be4.js",
+    "runtime-main.js.map": "/netpad/static/js/runtime-main.7a4b0be4.js.map",
+    "static/css/2.f2512455.chunk.css": "/netpad/static/css/2.f2512455.chunk.css",
+    "static/js/2.be96e98e.chunk.js": "/netpad/static/js/2.be96e98e.chunk.js",
+    "static/js/2.be96e98e.chunk.js.map": "/netpad/static/js/2.be96e98e.chunk.js.map",
+    "static/js/3.7374383b.chunk.js": "/netpad/static/js/3.7374383b.chunk.js",
+    "static/js/3.7374383b.chunk.js.map": "/netpad/static/js/3.7374383b.chunk.js.map",
+    "index.html": "/netpad/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/netpad/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.72568e55.chunk.css.map": "/netpad/static/css/main.72568e55.chunk.css.map",
+    "static/js/2.be96e98e.chunk.js.LICENSE.txt": "/netpad/static/js/2.be96e98e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4b0be4.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.be96e98e.chunk.js",
+    "static/css/main.72568e55.chunk.css",
+    "static/js/main.d624ad68.chunk.js"
+  ]
+}
